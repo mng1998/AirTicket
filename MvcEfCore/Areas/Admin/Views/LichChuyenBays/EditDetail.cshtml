@@ -1,0 +1,49 @@
+﻿
+@model MvcEfCore.Models.ChiTietTrungGian
+
+@{
+    ViewData["Title"] = "EditDetail";
+    Layout = "~/Areas/Admin/Views/Share/_AdminLayout.cshtml";
+
+}
+
+<h2>Edit</h2>
+
+<h4>ChiTietTrungGian</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditDetail">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ChiTietID" />
+            <div class="form-group">
+                <label asp-for="ThoiGian" class="control-label"></label>
+                <input asp-for="ThoiGian" class="form-control" />
+                <span asp-validation-for="ThoiGian" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GhiChu" class="control-label"></label>
+                <input asp-for="GhiChu" class="form-control" />
+                <span asp-validation-for="GhiChu" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="SanBayId" />
+            <div class="form-group">
+                    <label asp-for="SanBayDen" class="control-label">Sân bay trung gian</label>
+                    <select asp-for="SanBayDen" class="form-control" asp-items="ViewBag.SanBayId"></select>
+                    <span asp-validation-for="SanBayDen" class="text-danger"></span>
+                </div>
+            <input type="hidden" asp-for="ChuyenBayID" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

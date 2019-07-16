@@ -1,0 +1,60 @@
+﻿@model IEnumerable<MvcEfCore.Models.ChiTietTrungGian>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Share/_AdminLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-area="admin" asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ThoiGian)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GhiChu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SanBayDen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SanBay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LichChuyenBay)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThoiGian)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GhiChu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SanBayDen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SanBay.SanBayId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LichChuyenBay.ChuyenBayID)
+            </td>
+            <td>
+                <a asp-area="admin" asp-action="Edit" asp-route-id="@item.ChiTietID">Edit</a> |
+                <a asp-area="admin" asp-action="Details" asp-route-id="@item.ChiTietID">Details</a> |
+                <a asp-area="admin" asp-action="Delete" asp-route-id="@item.ChiTietID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

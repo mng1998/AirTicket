@@ -1,0 +1,49 @@
+﻿@model MvcEfCore.Models.ChiTietTrungGian
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Share/_AdminLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ChiTietTrungGian</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ThoiGian)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ThoiGian)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GhiChu)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GhiChu)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.SanBayDen)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SanBayDen)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.SanBay)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SanBay.SanBayId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LichChuyenBay)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LichChuyenBay.ChuyenBayID)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ChiTietID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

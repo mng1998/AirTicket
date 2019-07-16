@@ -1,0 +1,23 @@
+﻿@model MvcEfCore.Areas.Admin.Models.ListIdentityUser
+@{ var i = 0; }
+<h1>Admin</h1>
+<h2>Count: @Model.ListUser.Count()</h2>
+<a class="btn btn-success mt-5" style="margin: 10px" aspcontroller="Home" asp-action="Register">Create new User</a>
+<table class="table table-striped table-hover ">
+    <thead>         <tr>             <th>ID</th>             <th>Username</th>             <th>Email</th>             <th>Phone</th>             <th>Action</th>         </tr>     </thead>
+    <tbody>
+        @foreach (var user in Model.ListUser)
+        {
+            <tr>
+                <td>@(++i)</td>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>@user.PhoneNumber</td>
+                <td>
+                    <a class="btn btn-sm btn-primary" aspcontroller="Blog" asp-action="Detail" asp-route-id="">                     Detail <span class="glyphicon glyphicon-thlist"></span>                 </a>                 <a class="btn btn-sm btn-info" asp-controller=" " asp-action="Edit" asp-route-id="">                     Edit <span class="glyphicon glyphiconpencil"></span>                 </a>                 <a class="btn btn-danger btn-sm delete" data-id="" data-controller=" " data-action="Delete" data-body-message="Are you sure to delete?">
+                        Delete                     <span class="glyphicon glyphicontrash"></span>
+                    </a>
+                </td>
+            </tr>}
+    </tbody>
+</table> 

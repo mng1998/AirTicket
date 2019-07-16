@@ -1,0 +1,36 @@
+﻿@model MvcEfCore.Models.SanBay
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Share/_AdminLayout.cshtml";
+
+}
+
+<h2>Edit</h2>
+
+<h4>SanBay</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-area="admin" asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="SanBayId" />
+            <div class="form-group">
+                <label asp-for="TenSanBay" class="control-label"></label>
+                <input asp-for="TenSanBay" class="form-control" />
+                <span asp-validation-for="TenSanBay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-area="admin" asp-action="Index"> Back to List </a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

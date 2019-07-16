@@ -1,0 +1,29 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<a class="nav-link dropdown-toggle" id="navbarDropdown" style="color:orange" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Hello, @(User.Identity.Name ?? "User")!
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    @if (!SignInManager.IsSignedIn(User))
+    {
+        <a asp-action="Login" asp-controller="Account" class="dropdown-item">Log in</a>
+        <a asp-action="Register" asp-controller="Account" class="dropdown-item">Register</a>
+    }
+    else
+    {
+        <form method="post" asp-action="logout" asp-controller="account" class="no-padding-margin dropdown-item">
+            <button asp-action="logout" asp-controller="Account" class="btn dropdown-item btn-no-effect">Log out</button>
+            <button class="dropdown-item" asp-area="Admin" asp-controller="AdminHome" asp-action="Index">Management</button>
+        </form>
+
+        if (User.IsInRole("Admin"))
+        {
+            <button class="dropdown-item" asp-area="Admin" asp-controller="AdminHome" asp-action="Index">Management</button>
+        }
+        else
+        {
+            
+        }
+    }
+</div>

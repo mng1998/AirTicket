@@ -1,0 +1,77 @@
+﻿@model MvcEfCore.Models.PhieuDatVe
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="hero-wrap js-fullheight" style="background-image: url('../../images/bg_1.jpg');">
+    <div class="overlay"></div>
+    <div class="container">
+
+    </div>
+    <div class="container">
+        <br />
+        <br />
+        <br />
+
+        <br />
+        <div class="card container-fluid" style="width:500px">
+
+
+            <h2>Booking Detail</h2>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    Booking ID
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.PhieuDatVeID)
+                </dd>
+                <dt>
+                    Flight ID
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.ChuyenBayID)
+                </dd>
+                <dt>
+                    Seat Class
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.HangVe.TenHang)
+                </dd>
+                <dt>
+                    Customer Name
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.KhachHang.TenKhachHang)
+                </dd>
+                <dt>
+                    Address
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.KhachHang.DiaChi)
+                </dd>
+                <dt>
+                    Phone Number
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.KhachHang.SDT)
+                </dd>
+                <dt>
+                    Status
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.TrangThai)
+                </dd>
+            </dl>
+            <a asp-action="Edit" asp-route-id="@Model.PhieuDatVeID">Edit your details</a>
+        </div>
+        <div>
+            
+        </div>
+    </div>
+   
+</div>
+

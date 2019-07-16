@@ -1,0 +1,418 @@
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.deps.json
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.json
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.dev.json
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.dll
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.pdb
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.dll
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CoreCompileInputs.cache
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cache
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfoInputs.cache
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfo.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.input.cache
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.output.cache
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorCoreGenerate.cache
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Create.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Delete.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Details.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Edit.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Create.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Delete.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Details.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Edit.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Create.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Delete.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Details.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Edit.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\EditDetail.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Create.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Delete.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Details.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Edit.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Create.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Delete.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Details.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Edit.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Create.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Delete.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Details.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Edit.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Share\_AdminLayout.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Create.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Delete.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Details.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Edit.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewImports.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create2.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\XemGiaVe.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Import\Index.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cache
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cs
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.dll
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.pdb
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CopyComplete
+C:\Users\TheLaw\Downloads\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csprojAssemblyReference.cache
+D:\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.deps.json
+D:\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.json
+D:\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.dev.json
+D:\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.dll
+D:\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.pdb
+D:\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.dll
+D:\MvcEfCore-master_import\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csprojAssemblyReference.cache
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CoreCompileInputs.cache
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cache
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfoInputs.cache
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfo.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.input.cache
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.output.cache
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorCoreGenerate.cache
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Create.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Delete.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Details.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Edit.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Create.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Delete.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Details.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Edit.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Create.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Delete.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Details.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Edit.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\EditDetail.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Create.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Delete.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Details.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Edit.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Create.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Delete.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Details.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Edit.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Create.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Delete.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Details.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Edit.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Share\_AdminLayout.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Create.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Delete.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Details.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Edit.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewImports.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create2.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\XemGiaVe.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Import\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cache
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.dll
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.pdb
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CopyComplete
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminHome\Index.g.cshtml.cs
+D:\MvcEfCore-master_import\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableView.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.deps.json
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.json
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.dev.json
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.dll
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.pdb
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.dll
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CoreCompileInputs.cache
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cache
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfoInputs.cache
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfo.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.input.cache
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.output.cache
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorCoreGenerate.cache
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminHome\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Create.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Delete.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Details.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Edit.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Create.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Delete.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Details.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Edit.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Create.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Delete.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Details.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Edit.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\EditDetail.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Create.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Delete.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Details.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Edit.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Create.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Delete.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Details.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Edit.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Create.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Delete.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Details.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Edit.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Share\_AdminLayout.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Create.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Delete.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Details.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Edit.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewImports.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create2.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\XemGiaVe.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Import\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableView.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cache
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.dll
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.pdb
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CopyComplete
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MyPage.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.deps.json
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.json
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.dev.json
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.dll
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.pdb
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.dll
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CoreCompileInputs.cache
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cache
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfoInputs.cache
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfo.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.input.cache
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.output.cache
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorCoreGenerate.cache
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminHome\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Create.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Delete.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Details.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Edit.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Create.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Delete.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Details.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Edit.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Create.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Delete.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Details.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Edit.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\EditDetail.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Create.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Delete.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Details.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Edit.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Create.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Delete.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Details.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Edit.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Create.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Delete.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Details.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Edit.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Share\_AdminLayout.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Create.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Delete.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Details.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Edit.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewImports.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create2.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\XemGiaVe.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Import\Index.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MyPage.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableView.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cache
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.dll
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.pdb
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CopyComplete
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountDropDown.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.deps.json
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.json
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.runtimeconfig.dev.json
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.dll
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.pdb
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.dll
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\bin\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csprojAssemblyReference.cache
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CoreCompileInputs.cache
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cache
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorAssemblyInfo.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfoInputs.cache
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.AssemblyInfo.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.input.cache
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.TagHelpers.output.cache
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorCoreGenerate.cache
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminHome\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Create.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Delete.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Details.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ChiTietTrungGians\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Create.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Delete.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Details.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HangVes\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Create.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Delete.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Details.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\EditDetail.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\LichChuyenBays\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Create.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Delete.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Details.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatChoes\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Create.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Delete.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Details.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PhieuDatVes\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Create.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Delete.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Details.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SanBays\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Share\_AdminLayout.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Create.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Delete.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Details.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Edit.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ThamSoes\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewImports.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Create2.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\XemGiaVe.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Import\Index.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountDropDown.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MyPage.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableView.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cache
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.RazorTargetAssemblyInfo.cs
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.Views.pdb
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.dll
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.pdb
+C:\Users\khuye\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csproj.CopyComplete
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csprojAssemblyReference.cache
+C:\Users\ttquy\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Login\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Login\Index.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountDropDown.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\MvcEfCore.csprojAssemblyReference.cache
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\DatVe\Details.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\PhieuDatVes\Details.g.cshtml.cs
+C:\Users\May NG\Desktop\AirTicketMVC-master\MvcEfCore\obj\Debug\netcoreapp2.1\Razor\Views\PhieuDatVes\Edit.g.cshtml.cs

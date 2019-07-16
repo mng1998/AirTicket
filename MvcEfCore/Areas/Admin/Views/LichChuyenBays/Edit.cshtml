@@ -1,0 +1,68 @@
+﻿@model MvcEfCore.Models.LichChuyenBay
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Share/_AdminLayout.cshtml";
+
+}
+
+<h2>Edit</h2>
+
+<h4>LichChuyenBay</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ChuyenBayID" />
+            <div class="form-group">
+                <label asp-for="NgayGioBay" class="control-label"></label>
+                <input asp-for="NgayGioBay" class="form-control" />
+                <span asp-validation-for="NgayGioBay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GiaVe" class="control-label"></label>
+                <input asp-for="GiaVe" class="form-control" />
+                <span asp-validation-for="GiaVe" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThoiGianBay" class="control-label"></label>
+                <input asp-for="ThoiGianBay" ErrorMessage="Name not null" range="@ViewBag.TS1,1000" class="form-control" />
+
+                <span asp-validation-for="ThoiGianBay" class="text-danger">
+                </span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BusinessClass" class="control-label"></label>
+                <input asp-for="BusinessClass" class="form-control" />
+                <span asp-validation-for="BusinessClass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EconomyClass" class="control-label"></label>
+                <input asp-for="EconomyClass" class="form-control" />
+                <span asp-validation-for="EconomyClass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KhoiHanhId" class="control-label">From:</label>
+                <input asp-for="KhoiHanhId" class="form-control" />
+                <span asp-validation-for="KhoiHanhId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DenId" class="control-label">To:</label>
+                <input asp-for="DenId" class="form-control" />
+                <span asp-validation-for="DenId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

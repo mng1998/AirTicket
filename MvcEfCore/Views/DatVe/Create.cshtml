@@ -1,0 +1,99 @@
+﻿@model MvcEfCore.Models.PhieuDatVe
+
+@{
+    ViewData["Title"] = "Create";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+<div class="hero-wrap js-fullheight" style="background-image: url('../../images/about.jpg');">
+    <div class="overlay"></div>
+    <div class="container">
+        <br />
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+                    <div class="card card-signin my-5">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Booking for Flight ID: @ViewBag.IdChuyenBay</h5>
+
+                            <form asp-action="Create">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <input type="hidden" asp-for="ChuyenBayID" value="@ViewBag.IdChuyenBay" />
+                                <input type="hidden" asp-for="KhachHang.KhachHangID" />
+                                <div class="form-group">
+                                    <label asp-for="HangID" id="" class="control-label">Select seat class</label>
+                                    <select asp-for="HangID" id="phu" class="form-control" asp-items="@ViewBag.HangID"></select>
+                                </div>
+                                <div class="form-group">            
+                                    <input id="giaTien" asp-for="GiaTien" class="form-control" value="@ViewBag.GiaVeHang01" disabled />
+                                </div> 
+                                <div class="form-group">
+                                    <input asp-for="KhachHang.TenKhachHang" class="form-control" placeholder="Your Full Name" />
+                                    <span asp-validation-for="KhachHang.TenKhachHang" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <input asp-for="KhachHang.DiaChi" class="form-control" placeholder="Address"/>
+                                    <span asp-validation-for="KhachHang.DiaChi" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">                                    
+                                    <input asp-for="KhachHang.SDT" class="form-control" placeholder="Phone Number"/>
+                                    <span asp-validation-for="KhachHang.SDT" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <input asp-for="KhachHang.CMND" class="form-control" placeholder="Identity Card Number" />
+                                    <span asp-validation-for="KhachHang.CMND" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <input type="button" value="Book Now!" onclick="alert('Successful. Thank for your booking!')" />
+                              
+                                    <a asp-action="Index">Back to List</a>
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    @*<script src="~/plugins/mustache.min.js"></script>
+        <script src="~/controllers/homeController.js"></script>*@
+
+}
+<script>
+    $('#phu').on('change', function () {
+
+        @*foreach (HangVe i in @ViewBag.HangVe)
+        {
+            var a = $('#phu').val();
+            if (i == a)
+            {
+                document.getElementById("giaTien").value = i.TiLeGia * @ViewBag.GiaVe;
+            }
+        }*@
+
+        //alert();
+        //var data = { id: $('#phu').val()} ;
+        //alert($('#phu').val());
+        $.ajax({
+            url: '/DatVe/Update',
+            contentType: "application/json",
+            type: 'POST',
+            //dataType: 'json',
+            data: JSON.stringify({ 'id': $('#phu').val() }),
+            success: function (response) {
+                //alert(response.status);
+                document.getElementById("giaTien").value = response.status * @ViewBag.GiaVe/100 + @ViewBag.GiaVe
+            }
+        })
+    });
+
+</script>

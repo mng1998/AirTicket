@@ -1,0 +1,43 @@
+﻿@model MvcEfCore.Models.PhieuDatCho
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Share/_AdminLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PhieuDatCho</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GiaTien)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GiaTien)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.HangVe)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HangVe.HangID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.KhachHang)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.KhachHang.KhachHangID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LichChuyenBay)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LichChuyenBay.ChuyenBayID)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.PhieuDatChoID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
